@@ -1,0 +1,8 @@
+langchain-mcp-adapters
+python-dotenv
+langchain
+langchain-core
+mcp
+langgraph
+langchain-openai
+googlesearch-python
