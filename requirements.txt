@@ -6,3 +6,4 @@ mcp
 langgraph
 langchain-openai
 googlesearch-python
+openai
